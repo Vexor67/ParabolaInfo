@@ -1,3 +1,4 @@
+![MIT License](https://img.shields.io/badge/license-MIT-green)
 # ParabolaInfo
 
 **Created by Vashishth Patel, 16th Dec 2025**  
@@ -44,3 +45,4 @@ Bound Total Area: 8 Sqrt[2]/3
 - Code assumes vertical parabolas.
 
 - May not be perfectly optimised, so use at your own discretion.
+
