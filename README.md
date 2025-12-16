@@ -19,12 +19,12 @@ This command is designed for learning and experimentation.
 
 
 ## Usage
+Example:
 ```mathematica
 ParabolaInfo[x^2 - 4 x + 2, {x, -5, 10}, y]
 ```
-
-```mathematica
 Example output:
+```mathematica
 Equation: y = x^2-4 x+2
 Turning Point Form: (x-2)^2-2
 Domain: -5 <= x <= 10
@@ -42,4 +42,5 @@ Bound Total Area: 8 Sqrt[2]/3
 ## Notes
 - Any variable can be used for input or output.
 - Code assumes vertical parabolas.
+
 - May not be perfectly optimised, so use at your own discretion.
